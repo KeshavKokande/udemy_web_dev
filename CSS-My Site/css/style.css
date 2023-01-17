@@ -1,0 +1,80 @@
+/* --------EKDUM KONE M LGAANE KE LIYE POORI BODY KO-------- */
+body{
+    margin:0;
+    text-align: center;
+}
+h1{
+    margin: 0px;
+}
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+.middle_container{
+    background-color: #E4C988;
+    width: 200px;
+    height: 200px;
+}
+.bottom_container{
+    background-color: #C27664;
+    width: 200px;
+    height: 200px;
+} 
+.bottom-cloud{
+    position: absolute;
+}
+.top-cloud{
+    position: absolute;
+    top: 8%;
+    left: 60%;
+}
+/* -----------------FOR IMAGE 2------------------ */
+/* .top-container{
+    background-color: #84D2C5;
+    width: 200px;
+    height: 200px;
+    display: inline;
+    position: absolute;
+    top:400px;
+    left: 400px;
+}
+.middle_container{
+    background-color: #E4C988;
+    width: 200px;
+    height: 200px;
+    display: inline;
+    position: absolute;
+    top: 200px;
+    left:200px;
+}
+.bottom_container{
+    background-color: #C27664;
+    width: 200px;
+    height: 200px;
+    display: inline;
+    position: absolute;
+}  */
+/* --------------------COMMENT 1 Till lec 44-------------- */
+/* -------------FOR IMAGE 1------------------------- */
+/* .top-container{
+    background-color: #84D2C5;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+}
+.middle_container{
+    background-color: #E4C988;
+    width: 200px;
+    height: 200px;
+    border: solid 20px;
+    margin-left: 258px;
+}
+.bottom_container{
+    background-color: #C27664;
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+    margin-left: 497px;
+} */
